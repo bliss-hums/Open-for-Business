@@ -14,7 +14,7 @@ This is a project I undertook as part of Udacity's Data Scientist Nanodegree. I 
 There is one notebook that contains all the work described above.
 
 ## Results
-The results are extensively discussed in an article that can be found here.
+The results are extensively discussed in an article that can be found [here](https://medium.com/@humura.bliss/open-for-business-84e33ac7972d?postPublishedType=initial).
 
 ## Acknowledgments
 Credit to Udacity for providing all the necessary resources and guidelines to complete this project, and to the US Census Bureau for the Business Formation Statistics, which can be found [here](https://www.census.gov/econ/bfs/current/index.html).
